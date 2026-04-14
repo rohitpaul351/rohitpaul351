@@ -76,9 +76,6 @@
 <a href="https://linkedin.com/in/rohitpaul351">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
 </a>
-<a href="https://instagram.com/myself_rohit_paul">
-<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink"/>
-</a>
 <a href="https://www.leetcode.com/rohitpaul351">
 <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
 </a>
