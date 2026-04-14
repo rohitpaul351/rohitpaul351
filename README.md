@@ -69,10 +69,6 @@
   <img src="https://streak-stats.demolab.com?user=rohitpaul351&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitpaul351&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
