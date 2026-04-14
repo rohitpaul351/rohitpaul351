@@ -22,7 +22,7 @@
 ### 📦 Logistics Management System
 > A real-world project focused on optimizing logistics operations
 
-- 🧩 Role-based system (Admin, User)
+- 🧩 Role-based system (Super Admin, Admin, Cluster Manager, Manager, Employee, User)
 - 🚚 Shipment & delivery tracking
 - 🔐 Secure authentication (JWT)
 - ⚡ REST API with Spring Boot
