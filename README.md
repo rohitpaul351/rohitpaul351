@@ -1,36 +1,94 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ))](https://rishavchanda.io)
-<h1 align="center">Hi, I'm Rohit Paul</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<h1 align="center">Hi 👋, I'm Rohit Paul</h1>
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot | React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitpaul351&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpaul351" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Krishi Mitra**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **Data Analytics, Machine Learning**
-
-- 📫 How to reach me **techno.rohitpaul@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cWQYaOpeHGmB-EFNhkP2pHftaJincmKm/view?usp=sharing](https://drive.google.com/file/d/1cWQYaOpeHGmB-EFNhkP2pHftaJincmKm/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohitpaul351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitpaul351" height="30" width="40" /></a>
-<a href="https://instagram.com/myself_rohit_paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myself_rohit_paul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/techno_rohitpaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="techno_rohitpaul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohitpaul351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitpaul351" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/technororw2o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="technororw2o" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitpaul351&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpaul351" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpaul351&show_icons=true&locale=en&layout=compact" alt="rohitpaul351" /></p>
+## 🌙 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitpaul351&show_icons=true&locale=en" alt="rohitpaul351" /></p>
+- 🔭 Currently building a **Logistics Management System** solving real-world supply chain problems  
+- 💻 Focused on **Backend + Full Stack Development**  
+- 🌱 Learning **System Design & Advanced Spring Boot**  
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React, MySQL**  
+- 📫 Reach me at **techno.rohitpaul@gmail.com**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul351&" alt="rohitpaul351" /></p>
+---
+
+## 🚀 Featured Project
+
+### 📦 Logistics Management System
+> A real-world project focused on optimizing logistics operations
+
+- 🧩 Role-based system (Admin, User)
+- 🚚 Shipment & delivery tracking
+- 🔐 Secure authentication (JWT)
+- ⚡ REST API with Spring Boot
+- 💻 Responsive UI using React
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot&logoColor=green"/>
+<img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange"/>
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue"/>
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=cyan"/>
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rohitpaul351&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul351&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpaul351&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/rohitpaul351">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+</a>
+<a href="https://instagram.com/myself_rohit_paul">
+<img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=pink"/>
+</a>
+<a href="https://www.leetcode.com/rohitpaul351">
+<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+</a>
+<a href="https://www.hackerrank.com/techno_rohitpaul">
+<img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=green"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love solving real-world problems with code and building scalable backend systems 🚀
