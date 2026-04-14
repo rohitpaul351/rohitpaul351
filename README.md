@@ -2,16 +2,16 @@
 <h3 align="center">🚀 Full Stack Java Developer | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitpaul351&label=Profile%20views&color=0e75b6&style=flat" alt="rohitpaul351" />
+  <img src="https://komarev.com/ghpvc/?username=rohitpaul351&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🌙 About Me
 
-- 🔭 Currently building a **Logistics Management System** solving real-world supply chain problems  
-- 💻 Focused on **Backend + Full Stack Development**  
-- 🌱 Learning **System Design & Advanced Spring Boot**  
+- 🔭 Currently building a **Logistics Management System** to solve real-world supply chain challenges  
+- 💻 Focused on **Backend & Full Stack Development**  
+- 🌱 Learning **System Design, Microservices & Advanced Spring Boot**  
 - 💬 Ask me about **Java, Spring Boot, REST APIs, React, MySQL**  
 - 📫 Reach me at **techno.rohitpaul@gmail.com**  
 
@@ -20,13 +20,13 @@
 ## 🚀 Featured Project
 
 ### 📦 Logistics Management System
-> A real-world project focused on optimizing logistics operations
+> A scalable system designed to optimize logistics and delivery workflows
 
-- 🧩 Role-based system (Super Admin, Admin, Cluster Manager, Manager, Employee, User)
-- 🚚 Shipment & delivery tracking
-- 🔐 Secure authentication (JWT)
-- ⚡ REST API with Spring Boot
-- 💻 Responsive UI using React
+- 🧩 Role-based access (**Super Admin, Admin, Cluster Manager, Manager, Employee, User**)  
+- 🚚 Shipment & real-time delivery tracking  
+- 🔐 Secure authentication using **JWT**  
+- ⚡ RESTful APIs with **Spring Boot**  
+- 💻 Responsive frontend using **React**  
 
 ---
 
@@ -57,15 +57,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rohitpaul351&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpaul351&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul351&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul351&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpaul351&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitpaul351&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -91,4 +91,4 @@
 
 ## ⚡ Fun Fact
 
-> I love solving real-world problems with code and building scalable backend systems 🚀
+> I enjoy solving real-world problems and building scalable backend systems 🚀
