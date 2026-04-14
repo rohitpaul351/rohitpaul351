@@ -62,8 +62,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitpaul351&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitpaul351&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohitpaul351&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohitpaul351&theme=tokyonight" />
 </p>
 
 <p align="center">
